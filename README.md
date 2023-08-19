@@ -1,3 +1,4 @@
+
 QR Kodu Oluşturucu Uygulama
 Bu Python programı, tkinter kütüphanesi kullanılarak girilen metni alır, QR kodunu oluşturur ve belirtilen bir yere kaydeder.
 
